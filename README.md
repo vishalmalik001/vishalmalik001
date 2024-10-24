@@ -77,11 +77,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/hi-malik/github-readme-activity-graph"><img alt="Vishal Malik Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishalmalik001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 <p align="left">
 
