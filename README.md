@@ -82,6 +82,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/vishal-in/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "vishal29032002m@gmail.com"><img src="https://i.pinimg.com/originals/88/e1/4c/88e14cc7e7fcbb0e0e09de26cec86c61.png"/></a>
 
 </p>
 
