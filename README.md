@@ -1,4 +1,4 @@
-<!-- <a href="#"><img width="1280" height="576" src="https://github.com/jsm-28415/Personal/blob/main/7YQo.gif" height="175px"/></a> -->
+![image](https://github.com/user-attachments/assets/7257b477-9d2d-42b9-ae66-672b6cc316ec)<!-- <a href="#"><img width="1280" height="576" src="https://github.com/jsm-28415/Personal/blob/main/7YQo.gif" height="175px"/></a> -->
 <!-- <a href="#"><img width="1000" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker%20(11).gif" height="175px"/></a> -->
 
 <a href="#"><img width="800" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker%20(5).gif" height="175px"/></a>
@@ -35,9 +35,9 @@
 
 ## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
+    <a href="https://cplusplus.com" target="_blank"> <img src="https://icons8.com/icon/40669/c-plus-plus-logo"/> </a>
+    <a href="https://www.djangoproject.com" target="_blank"> <img src="https://icons8.com/icon/qV-JzWYl9dzP/django"/> </a>
+    <a href="https://www.ibm.com/topics/deep-learning" target="_blank"> <img src="https://icons8.com/icon/oOOSYZyuA844/external-deep-learning-artificial-intelligence-becris-flat-becris"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
