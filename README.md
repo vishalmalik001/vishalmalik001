@@ -37,7 +37,7 @@
 <p align="left"> 
     <a href="https://cplusplus.com" target="_blank"> <img src="https://img.icons8.com/?size=50&id=2T6TKY6whzgV&format=png"/> </a>
     <a href="https://www.djangoproject.com" target="_blank"> <img src="https://img.icons8.com/?id=qV-JzWYl9dzP&format=png"/> </a>
-    <a href="https://www.ibm.com/topics/deep-learning" target="_blank"> <img src="https://icons8.com/icon/oOOSYZyuA844/external-deep-learning-artificial-intelligence-becris-flat-becris"/> </a> 
+    <a href="https://www.ibm.com/topics/deep-learning" target="_blank"> <img src="https://img.icons8.com/?size=50&id=oOOSYZyuA844&format=png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
