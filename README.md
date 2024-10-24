@@ -93,10 +93,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=vishalmalik001">
 </a>
-<a href="https://github.com/hi-malik?tab=followers"><img src="https://img.shields.io/github/followers/hi-malik?label=Followers&style=social" alt="GitHub Badge"></a>
-
-## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/hi-malik/hi-malik/blob/output/github-contribution-grid-snake.gif)
+<a href="https://github.com/vishalmalik001?tab=followers"><img src="https://img.shields.io/github/followers/vishalmalik001?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 <div align="center">
