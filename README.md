@@ -82,7 +82,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/vishal-in/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "mail_to:vishal29032002m@gmail.com"><img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png"/></a>
+<a href = "mailto:vishal29032002m@gmail.com"><img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png"/></a>
 
 </p>
 
