@@ -1,7 +1,7 @@
 <!-- <a href="#"><img width="1280" height="576" src="https://github.com/jsm-28415/Personal/blob/main/7YQo.gif" height="175px"/></a> -->
 <!-- <a href="#"><img width="1000" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker%20(11).gif" height="175px"/></a> -->
 
-<a href="#"><img align="center" width="800" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker%20(5).gif" height="175px"/></a>
+<a align="center" href="#"><img align="center" width="800" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker%20(5).gif" height="175px"/></a>
 
 
 <h1 align="center">I believe <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> Where Logic Meets Creativity </h1>
@@ -35,7 +35,7 @@
 
 ## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
 <p align="left"> 
-    <a href="https://cplusplus.com" target="_blank"> <img src="https://img.icons8.com/?size=60&id=2T6TKY6whzgV&format=png"/> </a>
+    <a href="https://cplusplus.com" target="_blank"> <img src="https://img.icons8.com/?size=50&id=2T6TKY6whzgV&format=png"/> </a>
     <a href="https://www.djangoproject.com" target="_blank"> <img src="https://img.icons8.com/?id=qV-JzWYl9dzP&format=png"/> </a>
     <a href="https://www.ibm.com/topics/deep-learning" target="_blank"> <img src="https://icons8.com/icon/oOOSYZyuA844/external-deep-learning-artificial-intelligence-becris-flat-becris"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
