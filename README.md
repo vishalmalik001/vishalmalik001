@@ -35,8 +35,8 @@
 
 ## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
 <p align="left"> 
-    <a href="https://cplusplus.com" target="_blank"> <img src="https://icons8.com/icon/40669/c-plus-plus-logo"/> </a>
-    <a href="https://www.djangoproject.com" target="_blank"> <img src="https://icons8.com/icon/qV-JzWYl9dzP/django"/> </a>
+    <a href="https://cplusplus.com" target="_blank"> <img src="https://img.icons8.com/icon/40669/c-plus-plus-logo"/> </a>
+    <a href="https://www.djangoproject.com" target="_blank"> <img src="https://img.icons8.com/icon/qV-JzWYl9dzP/django"/> </a>
 <!--     <a href="https://www.ibm.com/topics/deep-learning" target="_blank"> <img src="https://icons8.com/icon/oOOSYZyuA844/external-deep-learning-artificial-intelligence-becris-flat-becris"/> </a>  -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
