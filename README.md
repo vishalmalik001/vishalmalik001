@@ -1,5 +1,3 @@
-<!-- <a href="#"><img width="1280" height="576" src="https://github.com/jsm-28415/Personal/blob/main/7YQo.gif" height="175px"/></a> -->
-<!-- <a href="#"><img width="1000" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker%20(11).gif" height="175px"/></a> -->
 
 <a align="center" href="#"><img align="center" width="800" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker%20(5).gif" height="175px"/></a>
 
