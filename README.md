@@ -1,7 +1,6 @@
 
 <a align="center" href="#"><img align="center" width="800" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker%20(5).gif" height="175px"/></a>
 
-
 <h1 align="center">I believe <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> Where Logic Meets Creativity </h1>
 <h3 align="center">Building Bridges in the Digital World</h3>
 
