@@ -56,6 +56,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishal Malik streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmalik001&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vishalmalik001)](https://git.io/streak-stats)
 
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=jsm-28415&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 
